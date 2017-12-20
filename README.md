@@ -2,15 +2,7 @@
 ---
 ## A doorbell that cares for you.
 
-<p align="center">
-
 ![alt text](https://preview.ibb.co/nEkms6/Screen_Shot_2017_12_20_at_3_01_31_PM.png)
-
-</p>
-
-**WEATHER**            **HEALTH**             **SAFETY**
-
-
 
 ## Project Description
 ### Design Philosophy
