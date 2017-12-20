@@ -1,9 +1,9 @@
 # Smart Weather Doorbell
 ---
 ## A doorbell that cares for you.
-    - **WEATHER**
-    - **HEALTH**
-    - **SAFETY**
+<p align="center"> **WEATHER**</p>
+<p align="center"> **HEALTH**</p>
+<p align="center"> **SAFETY**</p>
 ![alt text](https://preview.ibb.co/nEkms6/Screen_Shot_2017_12_20_at_3_01_31_PM.png)
 
 ## Project Description
