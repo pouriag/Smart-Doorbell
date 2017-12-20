@@ -12,10 +12,10 @@ A simple round-robin schedule of function calls is utilized to get the following
 - _Makes the debugging process easier._
 - _(Complete product) Separation of front and back ends of the software._
 <p>Additionally, the communication design philosophy for the product is to separate the communications between the master and slave (Zigbee), and the master and terminal (Wi-Fi). These provides the following benefits:</p>
-- *Additional slave devices can be added without affecting Wi-Fi functionality.*
-- *Master able to provide services to multiple terminals using Wi-Fi.*
-- *Master able to provide services to a remote terminal using internet.*
-- *(Low user requirement) Compatible with any device with a browser.*
+- _Additional slave devices can be added without affecting Wi-Fi functionality._
+- _Master able to provide services to multiple terminals using Wi-Fi._
+- _Master able to provide services to a remote terminal using internet._
+- _(Low user requirement) Compatible with any device with a browser._
 
 ### Notable Algorithms
 Other than the simple round-robin scheduling, our communication protocol ensures reliable transmission of data between devices and terminal.
