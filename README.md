@@ -1,11 +1,10 @@
-# Smart-Doorbell
-<http>
-<body style="background-color:#4b2e83">
-Smart Weather Doorbell
+# Smart Weather Doorbell
 A doorbell that cares for you.
-WEATHER HEALTH SAFETY
-  Project Description
- Design Philosophy
+# WEATHER
+# HEALTH
+# SAFETY
+#H2 Project Description
+#H3 Design Philosophy
 The design philosophy for the product is to have separation of concerns between the software that handles the system and the application that handles user experience.
 A simple round-robin schedule of function calls is utilized to get the following benefits:
 • Enables adding component’s implementation inside the loop function with ease.
