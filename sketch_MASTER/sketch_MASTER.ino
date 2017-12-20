@@ -1,3 +1,10 @@
+/**
+ * SMART WEATHER DOORBELL
+ * MASTER device 
+ * Written and Tested by: Pouria Ghadimi
+ *                        Conard James Faraon
+ */
+
 #include <AltSoftSerial.h>
 #include <SoftwareSerial.h>
 #include <WiFiEsp.h>

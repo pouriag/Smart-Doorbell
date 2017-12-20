@@ -1,3 +1,11 @@
+/**
+ * SMART WEATHER DOORBELL
+ * SLAVE device 
+ * Written and Tested by: Pouria Ghadimi
+ *                        Conard James Faraon
+ */
+
+
 #include <MQ135.h>
 #include <LiquidCrystal.h>
 #include<DHT.h>
