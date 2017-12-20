@@ -1,9 +1,11 @@
 # Smart Weather Doorbell
 ---
 ## A doorbell that cares for you.
-<p align="center"> **WEATHER** </p>
-<p align="center"> **HEALTH** </p>
-<p align="center"> **SAFETY** </p>
+<b>
+<p align="center"> WEATHER  </p>
+<p align="center" style= > HEALTH </p>
+<p align="center"> SAFETY </p>
+</b>
 
 ![alt text](https://preview.ibb.co/nEkms6/Screen_Shot_2017_12_20_at_3_01_31_PM.png)
 
@@ -11,14 +13,14 @@
 ### Design Philosophy
 The design philosophy for the product is to have separation of concerns between the software that handles the system and the application that handles user experience.
 A simple round-robin schedule of function calls is utilized to get the following benefits:
-  **•** _Enables adding component’s implementation inside the loop function with ease._
-  **•** _Makes the debugging process easier._
-  **•** _(Complete product) Separation of front and back ends of the software._
+- _Enables adding component’s implementation inside the loop function with ease._
+- _Makes the debugging process easier._
+- _(Complete product) Separation of front and back ends of the software._
 Additionally, the communication design philosophy for the product is to separate the communications between the master and slave (Zigbee), and the master and terminal (Wi-Fi). These provides the following benefits:
-**•** *Additional slave devices can be added without affecting Wi-Fi functionality.*
-**•** *Master able to provide services to multiple terminals using Wi-Fi.*
-**•** *Master able to provide services to a remote terminal using internet.*
-**•** *(Low user requirement) Compatible with any device with a browser.*
+- *Additional slave devices can be added without affecting Wi-Fi functionality.*
+- *Master able to provide services to multiple terminals using Wi-Fi.*
+- *Master able to provide services to a remote terminal using internet.*
+- *(Low user requirement) Compatible with any device with a browser.*
 
 ### Notable Algorithms
 Other than the simple round-robin scheduling, our communication protocol ensures reliable transmission of data between devices and terminal.
