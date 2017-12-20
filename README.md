@@ -2,9 +2,9 @@
 ---
 ## A doorbell that cares for you.
 <b>
-<p align="center"> WEATHER  </p>
-<p align="center" style= > HEALTH </p>
-<p align="center"> SAFETY </p>
+<p align="left"> WEATHER
+<p align="center" style= > HEALTH
+<p align="right"> SAFETY </p>
 </b>
 
 ![alt text](https://preview.ibb.co/nEkms6/Screen_Shot_2017_12_20_at_3_01_31_PM.png)
@@ -16,7 +16,7 @@ A simple round-robin schedule of function calls is utilized to get the following
 - _Enables adding component’s implementation inside the loop function with ease._
 - _Makes the debugging process easier._
 - _(Complete product) Separation of front and back ends of the software._
-Additionally, the communication design philosophy for the product is to separate the communications between the master and slave (Zigbee), and the master and terminal (Wi-Fi). These provides the following benefits:
+<p>Additionally, the communication design philosophy for the product is to separate the communications between the master and slave (Zigbee), and the master and terminal (Wi-Fi). These provides the following benefits:</p>
 - *Additional slave devices can be added without affecting Wi-Fi functionality.*
 - *Master able to provide services to multiple terminals using Wi-Fi.*
 - *Master able to provide services to a remote terminal using internet.*
